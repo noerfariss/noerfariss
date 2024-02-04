@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm noerfaris</h1>
-<h3 color="red">Laravel & Vue enthusiast</h3>
+<h3 color="red">Laravel & React enthusiast</h3>
 
 - 🔭 I’m currently working on **a IT Software company**
 
